@@ -15,3 +15,5 @@ This page is a list of freelance reseach software engineers who are available fo
 <a name="details-frank-sonntag"></a>
 ### Frank Sonntag / Envismo.com
 
+With a degree in atmospheric physics, Frank has worked as a scientific software developer for the last 20 years,
+building modelling pipelines for operational weather forecasting.
