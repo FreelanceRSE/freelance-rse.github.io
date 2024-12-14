@@ -12,7 +12,6 @@ This page is a list of freelance reseach software engineers who are available fo
 
 ## Details
 
-
 <a name="details-frank-sonntag"></a>
 ### Frank Sonntag / Envismo.com
 
